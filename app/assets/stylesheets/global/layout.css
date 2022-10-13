@@ -1,0 +1,29 @@
+.tweet{
+  width: 600px;
+  height: 120px;
+  padding: 8px 16px;
+  display: flex;
+  gap: 8px;
+}
+
+.tweet-form{
+  width: 600px;
+  height: 104px;
+  padding: 8px 16px;
+  display: flex;
+  gap: 8px;
+}
+.header{
+  width: 600px;
+  height: 64px;
+  padding: 16px 0;
+  gap: 8px;
+}
+
+.navbar{
+  width: 600px;
+  height: 48px;
+  padding: 8px 16px;
+  display: flex;
+  gap: 8px;
+}

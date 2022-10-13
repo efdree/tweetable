@@ -1,0 +1,85 @@
+.l-primary-button{
+  width: 145px;
+  height: 56px;
+  background: #1DA1F2;
+  border-radius: 100px;
+  padding: 16px;
+  color: white;
+}
+
+.m-primary-button{
+  width: 88px;
+  height: 40px;
+  background: #1DA1F2;
+  border-radius: 100px;
+  padding: 8px 16px;
+  color: white;
+}
+
+.s-primary-button{
+  width: 88px;
+  height: 32px;
+  background: #1DA1F2;
+  border-radius: 100px;
+  padding: 4px 16px;
+  color: white;
+}
+
+.l-secondary-button{
+  width: 145px;
+  height: 56px;
+  background: none;
+  border: 1px solid #1DA1F2;
+  border-radius: 100px;
+  padding: 16px;
+  color: #1DA1F2;
+}
+
+.m-secondary-button{
+  width: 88px;
+  height: 40px;
+  background: none;
+  border: 1px solid #1DA1F2;
+  border-radius: 100px;
+  padding: 8px 16px;
+  color: #1DA1F2;
+}
+
+.s-secondary-button{
+  width: 88px;
+  height: 32px;
+  border: 1px solid #1DA1F2;
+  border-radius: 100px;
+  padding: 4px 16px;
+  color: #1DA1F2;
+}
+
+.l-search-button{
+  width: 145px;
+  height: 56px;
+  background: #F7F9FA;
+  border: 1px solid #0F1419;
+  border-radius: 100px;
+  padding: 16px;
+  color: #0F1419;
+}
+
+.m-search-button{
+  width: 88px;
+  height: 40px;
+  background: #F7F9FA;
+  border: 1px solid #0F1419;
+  border-radius: 100px;
+  padding: 8px 16px;
+  color: #0F1419;
+}
+
+.s-search-button{
+  width: 88px;
+  height: 32px;
+  background: #F7F9FA;
+  border: 1px solid #0F1419;
+  border-radius: 100px;
+  padding: 4px 16px;
+  color: #0F1419;
+}
