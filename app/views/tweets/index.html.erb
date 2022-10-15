@@ -1,0 +1,27 @@
+<h1>Tweets</h1>
+
+<% @tweets.each do |tweet|%>
+  <section class="tweet">
+    <div>
+      <p>Imagen</p>
+    </div>
+    <div>
+      <div>
+        <p>Name</p>
+        <p>@Username</p>
+        <p>time</p>
+      </div>
+      <div>
+        <%= tweet.body %>
+      </div>
+      <div>
+        <p>Comment</p>
+        <p>1</p>
+      </div>
+    </div>
+  </section>
+  
+  
+
+<% end %>
+

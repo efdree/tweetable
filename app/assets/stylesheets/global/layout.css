@@ -4,6 +4,7 @@
   padding: 8px 16px;
   display: flex;
   gap: 8px;
+  border: 1px solid red;
 }
 
 .tweet-form{
